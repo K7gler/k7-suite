@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'k7-suite',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/K7gler/k7-suite',
+    listUrl: 'https://k7gler.github.io/k7-suite/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
